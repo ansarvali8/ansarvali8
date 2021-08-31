@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ansarvali8
+- 👋 Hi, I’m @ansarvali
 - 👀 I’m interested in learning trendy technologies
 - 🌱 I’m currently learning python
